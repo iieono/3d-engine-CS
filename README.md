@@ -1,5 +1,5 @@
 # 3d-engine-CS
-Supposedly 3d whatsoever
+Supposedly 3d ...
 
 Trying to understand linear algebra, gave this a try
 
